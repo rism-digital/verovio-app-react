@@ -1,5 +1,5 @@
-# verovio-react
-A basic example running Verovio in React
+# verovio-app-react
+A basic example running the Verovio App in React
 
 Run:
   
